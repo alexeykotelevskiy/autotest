@@ -1,6 +1,7 @@
 package examples;
 
 import bot.Bot;
+import core.GroupElemWrapper;
 import core.TestBase;
 import core.TestUtils;
 import core.page.GroupsListPage;

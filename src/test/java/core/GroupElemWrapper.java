@@ -1,4 +1,4 @@
-package examples;
+package core;
 
 import core.TestUtils;
 import core.page.PageBase;

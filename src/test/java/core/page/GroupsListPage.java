@@ -2,7 +2,7 @@ package core.page;
 
 import core.TestUtils;
 import core.Transformer;
-import examples.GroupElemWrapper;
+import core.GroupElemWrapper;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
